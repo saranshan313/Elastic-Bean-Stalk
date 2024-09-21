@@ -36,7 +36,7 @@ welcome = """
   <style>
   body {
     color: #ffffff;
-    background-color: Red;
+    background-color: red;
     font-family: Arial, sans-serif;
     font-size:14px;
     -moz-transition-property: text-shadow;
@@ -82,7 +82,7 @@ welcome = """
     bottom: 0px;
     left: 50%;
 
-    background-color: #E0E0E0;
+    background-color: red;
   }
 
   h1 {
